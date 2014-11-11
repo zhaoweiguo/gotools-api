@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	log "github.com/mailgun/gotools-log"
+	log "github.com/zhaoweiguo/gotools-log"
 )
 
 type Response map[string]interface{}
